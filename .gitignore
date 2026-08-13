@@ -1,0 +1,9 @@
+.DS_Store
+states/
+*.out
+*.log
+*.class
+*.tmp
+*.bak
+GossipOverwrite_trace_T*.tlc
+.vscode/
